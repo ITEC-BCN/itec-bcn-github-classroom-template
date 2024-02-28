@@ -1,4 +1,6 @@
 package utilities
 
-class MyUtils {
+// TODO: Implement methods
+fun readSomething(){
+    TODO()
 }
