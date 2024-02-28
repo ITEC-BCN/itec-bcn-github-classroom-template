@@ -1,10 +1,10 @@
 package models
 
 class MyModel {
-    // TODO: Define proper attributes
+    //TODO: Define proper attributes
     private val myVariable: Int = 0
 
-    // TODO: define constructors
+    //TODO: define constructors
 
     //TODO: Implement inherit abstract methods
 
@@ -12,7 +12,7 @@ class MyModel {
 
     //TODO: Override needed methods such as toString
 
-    // TODO: Implement other methods
+    //TODO: Implement other methods
     fun function() {
         TODO()
     }
