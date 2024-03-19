@@ -15,6 +15,7 @@ dependencies {
     dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:1.9.10")
     testImplementation(kotlin("test"))
     testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
+    implementation("org.xerial:sqlite-jdbc:3.36.0.3")
 }
 
 tasks.dokkaHtml.configure {
