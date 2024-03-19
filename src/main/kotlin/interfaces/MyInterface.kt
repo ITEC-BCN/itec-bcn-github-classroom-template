@@ -1,5 +1,5 @@
 package interfaces
 
-interface Able {
+interface MyInterface {
     //TODO: Define methods
 }
